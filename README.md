@@ -1,7 +1,7 @@
 # PokeDex
 
 ## Tech used
-HTML, CSS, JavaScript, Semantic UI
+HTML, CSS, JavaScript, Semantic UI, PokeAPI
 
 ### Purpose of this project
 The purpose of the project was to practice using the fetch api and async/await functions.
